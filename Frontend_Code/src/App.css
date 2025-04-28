@@ -1,0 +1,25 @@
+nav ul {
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+}
+.App {
+  text-align: center;
+}
+.App h1 {
+  margin-bottom: 20px;
+}
+.link-box {
+  margin-bottom: 20px;
+}
+li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #f4f4f4;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 100px;
+  background-color: #e43f5a;
+}
