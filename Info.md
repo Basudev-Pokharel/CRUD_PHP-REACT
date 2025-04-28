@@ -9,3 +9,5 @@ and runned query using PDO methods and the rest is in code
 - Chinedu
 - Jamil Mohhammad
 - Vivian
+
+![Output Image](output.png)
